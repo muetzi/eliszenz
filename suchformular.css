@@ -2,86 +2,166 @@
 
 
 h1 {
-	font-family: Helvetica;
-	font-weight: bold; 
-	color: black;
-	font-size: 24px;
+        font-family: Helvetica;
+        font-weight: bold; 
+        color: black;
+        font-size: 24px;
+        
 }
 
 
 
 h2 {font-size: 16px;
-	font-family: Helvetica;
-	font-weight: bold; 
-	color: black;}
-	
+        font-family: Helvetica;
+        font-weight: bold; 
+        color: black;}
+        
+p {
+        font-family: Helvetica;
+        font-size: 16px;
+}        
+
+a {
+        font-family: Helvetica;
+        font-size: 16px;
+        color: black;
+        margin-bottom: 50px;
+}
+
+
+hr {
+        margin-top: 50px;
+}
+
+
+
+a:link {
+    color: #388E8E;
+        
+        
+}
+        
+a:hover {
+        color: #388E8E;
+        font-family: Helvetica;
+        text-decoration: none;
+}
+
+a:visited {
+    color: #9999ff;
+}
+
+
+td {
+        font-family: Helvetica;
+        font-size: 12px;
+    height:30px;
+    width: 200px;
+    border:1px solid black;
+    
+ 
+}
+
+th {
+        font-family: Helvetica;
+        font-size: 14px;
+        height:50px;
+    border:1px solid black;
+    
+}        
+
+table {
+    border: 3px solid black;
+    
+    
+}
+
+
+
+.Blue {
+        background-color: #e5e5ff;
+}
+
+.Uetab {
+        font-family: Helvetica;
+        font-size: 18px;
+}
+
+.Abstand {
+        margin-top: 80px;
+}
+
+.Abstand2 {
+        margin-top:50px;
+}
+
+#thead {
+        background-color: #AAAAFF
+}        
 
 .blabla {
-	font-family: Helvetica;
-	font-weight: bold;
-	font-size: 14px;
-	color: white;
-	display: inline-block;
-	padding: 0.4em 1em 0.4em 1em;
-	margin-top: 25px;
-	margin-bottom: 30px;
-	text-align: center;
-	cursor: pointer;
-	background-color: #00688B;
-	height: 30px;
-	width: 130px;
-	border-radius: 40px;
-	border-color: black;
-	
+        font-family: Helvetica;
+        font-weight: bold;
+        font-size: 14px;
+        color: white;
+        display: inline-block;
+        padding: 0.4em 1em 0.4em 1em;
+        margin-top: 25px;
+        margin-bottom: 30px;
+        text-align: center;
+        cursor: pointer;
+        background-color: #00688B;
+        height: 30px;
+        width: 130px;
+        border-radius: 40px;
+        border-color: black;
+        
 }
 
 .Suchfeld {
-	display: inline-block;
-	padding: 0.4em 1em 0.4em 1em;
-	margin: 0;
-	border-radius: 3px;
-	text-align: center;
-	font-weight: bold;
-	cursor: pointer;
-	
+        display: inline-block;
+        padding: 0.4em 1em 0.4em 1em;
+        margin: 0;
+        border-radius: 3px;
+        text-align: center;
+        font-weight: bold;
+        cursor: pointer;
+        
 }
 
 legend {
-	width: 150px;
-	font-family: Verdana;
-	font-weight: bold;
-	color: #00688B;
-	font-size: 16px;
-	margin-top: 30px;
+        width: 150px;
+        font-family: Verdana;
+        font-weight: bold;
+        color: #00688B;
+        font-size: 16px;
+        margin-top: 30px;
 
-	
+        
 }
 
 .text {
-	height: 20px;
-	width: 600px;
-	border-radius: 40px;
-	border-color: #00688B;
-	margin-top: 20px;
+        height: 20px;
+        width: 600px;
+        border-radius: 40px;
+        border-color: #00688B;
+        margin-top: 20px;
 }
 
 fieldset {
-	border-top-color: solid black;
-	border-radius: 30px;
-	
+        border-top-color: solid black;
+        border-radius: 30px;
+        
 }
 
 form {
-	margin-top: 50px;
-	
+        margin-top: 50px;
+        
 }
 
 label {
-	display:block;
-	margin-top: 20px;
-	font-family: Verdana;
-	font-size: 12px;
+        display:block;
+        margin-top: 20px;
+        font-family: Verdana;
+        font-size: 12px;
 }
-
-
-
