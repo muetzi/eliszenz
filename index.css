@@ -116,7 +116,7 @@ table {
         height: 30px;
         width: 130px;
         border-radius: 40px;
-        border-color: black;
+        border-color: #00688B;
         
 }
 
@@ -124,7 +124,6 @@ table {
         display: inline-block;
         padding: 0.4em 1em 0.4em 1em;
         margin: 0;
-        border-radius: 3px;
         text-align: center;
         font-weight: bold;
         cursor: pointer;
@@ -132,8 +131,7 @@ table {
 }
 
 legend {
-        width: 150px;
-        font-family: Verdana;
+		font-family: Verdana;
         font-weight: bold;
         color: #00688B;
         font-size: 16px;
